@@ -1,8 +1,8 @@
-from CapuletEngine import CapuletEngine
-from NubbinBattery import NubbinBattery
-from SpindlerBattery import SpindlerBattery
-from SternmanEngine import SternmanEngine
-from WilloughbyEngine import WilloughbyEngine
+from Engine.CapuletEngine import CapuletEngine
+from Battery.NubbinBattery import NubbinBattery
+from Battery.SpindlerBattery import SpindlerBattery
+from Engine.SternmanEngine import SternmanEngine
+from Engine.WilloughbyEngine import WilloughbyEngine
 from Car import Car
 
 
