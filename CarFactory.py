@@ -1,4 +1,4 @@
-from Engine.CapuletEngine import CapuletEngine
+from Engine import CapuletEngine
 from Battery.NubbinBattery import NubbinBattery
 from Battery.SpindlerBattery import SpindlerBattery
 from Engine.SternmanEngine import SternmanEngine
